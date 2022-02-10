@@ -1,2 +1,2 @@
 # Todo
-Todo List with javascript techniques including local storage
+Awsome todo List with javascript techniques including local storage
